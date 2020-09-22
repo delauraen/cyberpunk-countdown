@@ -42,8 +42,6 @@
       "Helvetica Neue", 
       sans-serif;
   }
-  
-  
 
   .container {
     position: absolute;
@@ -69,4 +67,5 @@
     padding-left: 20px;
     padding-right: 20px;
     text-shadow: 2px 2px #000000;
+    border-radius: 50px;
   }
